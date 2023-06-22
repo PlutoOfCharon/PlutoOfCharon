@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PlutoOfCharon
 - 👀 I’m interested in Cloud native development
-- 🌱 I’m currently learning go
+- 🌱 I’m currently learning Cloud native
 - 💞️ I hope to join Meituan
 
 
